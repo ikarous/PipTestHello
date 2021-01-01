@@ -1,5 +1,5 @@
 setup(
-      name='Hello',
+      name='hello',
       version='0.1',
       description='PiP module test',
       url='https://github.com/ikarous/PipTestHello',
