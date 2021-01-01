@@ -8,6 +8,6 @@ setup(
       author='William Norris',
       author_email='ike.norris@gmail.com',
       license='MIT',
-      packages=['hello'],
+      packages=['helloworld'],
       zip_safe=False
 )
