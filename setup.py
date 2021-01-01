@@ -1,4 +1,5 @@
-setup(name='Hello',
+setup(
+      name='Hello',
       version='0.1',
       description='PiP module test',
       url='https://github.com/ikarous/PipTestHello',
@@ -6,4 +7,5 @@ setup(name='Hello',
       author_email='ike.norris@gmail.com',
       license='MIT',
       packages=['hello'],
-      zip_safe=False)
+      zip_safe=False
+)
