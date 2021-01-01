@@ -4,6 +4,6 @@ setup(name='hello',
   url='https://github.com/ikarous/PipTestHello',
   author='William Norris',
   author_email='ike.norris@gmail.com',
-  license='Mit'
+  license='MIT',
   packages=['hello'],
   zip_safe=False)
