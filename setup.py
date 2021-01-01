@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-      name='hello',
+      name='Hello',
       version='0.1',
       description='PiP module test',
       url='https://github.com/ikarous/PipTestHello',
